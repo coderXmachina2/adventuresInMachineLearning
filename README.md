@@ -5,3 +5,7 @@ Feature Selection<br />
    Recursive Feature Extratction<br />
    Principal Component Analysis<br />
    Extra Trees Classifier<br />
+   
+Assignment 2 Earthquake Mining<br />
+   Kmeans Clustering<br />
+   Kohonens Self Organising Map<br />
