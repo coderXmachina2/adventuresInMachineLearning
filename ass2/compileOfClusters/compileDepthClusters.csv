@@ -1,4 +1,4 @@
-longitde,latitude,depth,SOM cluster,depth,k mean cluster
+longitde,latitude,depth,SOM cluster,DBSCAN cluster,KMEAN cluster
 172.16794,-43.52731,11.0426,0,0,1
 172.32367,-43.55426,10.0257,0,1,3
 172.38512,-43.6585,7.8273,0,1,3

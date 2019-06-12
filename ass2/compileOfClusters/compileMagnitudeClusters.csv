@@ -1,4 +1,4 @@
-longitde,latitude,magnitude,somCluster,DBSCANcluster,kMeanCluster
+longitde,latitude,magnitude,SOMcluster,DBSCAN cluster,KMEAN cluster
 172.16794,-43.52731,7.2,2,0,3
 172.32367,-43.55426,5.815,2,0,3
 172.38512,-43.6585,5.114,2,0,3
